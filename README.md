@@ -1,6 +1,8 @@
-# 基於集成學習方法之電力輔助市場調頻備轉交易量預測建模 Ensemble Learning Methods on Microgrid Volume Forecast
+# 基於集成學習方法之電力輔助市場調頻備轉交易量預測建模
+# Ensemble Learning Methods on Microgrid Volume Forecast
 
 資料來源：台電電力交易平台、農業氣象觀測網監測系統
+
 收集期間：2021/11/1-2022/2/28，共 2880 筆資料
 
 # 1. 問題介紹
